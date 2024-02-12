@@ -132,10 +132,9 @@ $(document).ready(function () {
       kata2 = "Semoga mimpi indah yaa xixixi<i class='fa fa-heart'></i>";
     } else {
       if (hSalam < 11) {
-        ucapanSalam = "Selamat Pagi kamu";
+        ucapanSalam = "Selamat Pagi Incess Auraa 😜";
         kata1 = "Jangan lupa sarapan";
-        kata2 = "Semoga hari hari mu menyenangkan <i class='fa fa-heart'></i>";
-        kata3 = "Sorry";
+        kata2 = "Semoga hari hari Unity mu lancar Jayaa mwehehehe <i class='fa fa-heart'></i>";
       } else {
         if (hSalam < 16) {
           ucapanSalam = "Selamat Siang Kakk Auraa 😇";
@@ -147,7 +146,7 @@ $(document).ready(function () {
             kata1 = "Jangan lupa mandi hahaha";
             kata2 = "Jangan bosen bosen ama aku yaa<i class='fa fa-heart'></i>";
           } else {
-            ucapanSalam = "Selamat Malam Kamu😜";
+            ucapanSalam = "Selamat Malam Kak Auraa 😇😜";
             kata1 = "Jangan tidur malem malem ckckck";
             kata2 = "Semoga mimpi indah yaa xixixi<i class='fa fa-heart'></i>";
           }
